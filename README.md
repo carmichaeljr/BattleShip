@@ -4,3 +4,5 @@ This is probably the worst code that someone could possibly write. I am still as
 
 The program works as expected when run: you play battleship against the computer.
 Be carefull, the computer is quite a good opponent(sometimes).
+
+This script is meant to be run from the command line, and does not have a GUI. All graphics are presented through ASCII art.
